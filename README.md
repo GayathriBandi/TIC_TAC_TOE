@@ -1,5 +1,4 @@
-PRODIGY_WD_03  
-🌟 Prodigy Infotech Task-3: Tic Tac Toe Game 
+Tic Tac Toe
 ✅ Structured with semantic HTML, styled responsively with CSS, and made interactive with JavaScript.
 🔍 Implemented dynamic turn indicators, winning effects, and "Play Again" functionality for enhanced user experience.
 ⚙ Developed JavaScript logic for player turns, box clicks, and win conditions, showcasing proficiency in front-end development.
